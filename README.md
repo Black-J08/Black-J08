@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 align="center">A passionate Software Developer from India</h3>
+<br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<!--
-**Black-J08/Black-J08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+  - 🚀 Passionate about software development and technology.
 
-Here are some ideas to get you started:
+  - 💻 Skilled in various programming languages and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 📚 Eager to learn and adapt to new technologies.
+  
+  - 🌟 Explore a range of projects, from personal fun to collaborative ventures.
+
+  - 🎮 Enthusiastic about gaming and all things tech-related.
+
+</div>
+
+<br>
+
